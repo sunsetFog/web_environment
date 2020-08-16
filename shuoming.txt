@@ -1,0 +1,33 @@
+
+
+windows7 安装配置NodeJS、NPM
+https://jingyan.baidu.com/article/2d5afd69e243cc85a2e28efa.html
+	C:\Program Files\nodejs        建立"node_global"及"node_cache"两个文件夹
+	系统变量
+	NODE_PATH
+	C:\Program Files\nodejs\node_global\node_modules    注意是C盘
+cnpm安装：
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+
+npm -v   查看npm版本
+node -v   查看node版本
+cnpm -v   查看cnpm版本
+shirft+右击    终端跑项目
+
+
+
+设置提交代码时的用户信息
+$ git config user.name "githud用户名"
+$ git config user.email "邮箱地址"
+
+
+Adobe Photoshop 7(绿色版)     其他ps要付费
+通过《金山毒霸》里面的《软件管家》下载
+
+
+
+或百度搜索“vscode下载”
+vscode安装插件
+vetur
+px to rem
+Chinese(中文简体)
